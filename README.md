@@ -2,28 +2,28 @@
 - This repository contains the Power BI project for Blinkit, designed to analyze. The dashboard provides insights, enabling data-driven decisions.
 
 **📊 Project Overview**:<br>
-- The Blinkit Project leverages Power BI to deliver interactive and intuitive dashboards for business performance analysis.<br> - This project includes:
+- The Blinkit Project leverages Power BI to deliver interactive and intuitive dashboards for business performance analysis.<br>  -This project includes:
 
-Key performance indicators (KPIs) visualization
-User-friendly filters for deep-diving into data
-Well-organized reports for stakeholders
+- Key performance indicators (KPIs) visualization<br>
+- User-friendly filters for deep-diving into data<br>
+- Well-organized reports for stakeholders<br>
 
-**🛠️ Features**
-Interactive Visualizations: Easy-to-use slicers for detailed analysis.
-Custom Metrics: Tailored calculations for KPIs relevant to Blinkit.
+**🛠️ Features**:<br>
+- Interactive Visualizations: Easy-to-use slicers for detailed analysis.<br>
+- Custom Metrics: Tailored calculations for KPIs relevant to Blinkit.<br>
 
-**🗂️ Contents**
-blinkit project.pbix: Power BI report file containing all visualizations and metrics.
-Data Sources: Excel Data source
+**🗂️ Contents**:<br>
+- blinkit project.pbix: Power BI report file containing all visualizations and metrics.<br>
+- Data Sources: Excel Data source<br>
 
-**🚀 Getting Started**
-Prerequisites
-To view and interact with the Power BI report file:
+**🚀 Getting Started**:<br>
+**Prerequisites**:<br>
+1. To view and interact with the Power BI report file:<br>
+2. Install Power BI Desktop.<br>
+3. Download the .pbix file from this repository.<br>
 
-Install Power BI Desktop.
-Download the .pbix file from this repository.
-
-Steps to View
-Copy code
-git clone https://github.com/gitkanupriya/blinkit-Project.git
-Open the blinkit project.pbix file in Power BI Desktop.
+**How to use**:
+1. Clone the repository:<br>
+   `git clone https://github.com/example/repo.git`  
+2. Open the project in your editor.  
+3. Run the application.
