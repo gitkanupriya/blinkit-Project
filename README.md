@@ -2,8 +2,9 @@
 - This repository contains the Power BI project for Blinkit, designed to analyze. The dashboard provides insights, enabling data-driven decisions.
 
 **📊 Project Overview**:<br>
-- The Blinkit Project leverages Power BI to deliver interactive and intuitive dashboards for business performance analysis.<br>  -This project includes:
+- The Blinkit Project leverages Power BI to deliver interactive and intuitive dashboards for business performance analysis.<br>  
 
+**This project includes:**
 - Key performance indicators (KPIs) visualization<br>
 - User-friendly filters for deep-diving into data<br>
 - Well-organized reports for stakeholders<br>
