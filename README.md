@@ -23,8 +23,4 @@
 2. Install Power BI Desktop.<br>
 3. Download the .pbix file from this repository.<br>
 
-**How to use**:
-1. Clone the repository:<br>
-   `git clone https://github.com/example/repo.git`  
-2. Open the project in your editor.  
-3. Run the application.
+
